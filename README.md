@@ -1,4 +1,4 @@
-# PROG6112_Abigail-Van-Rooyen_ST10162964_Part1
+# PROG6221_Abigail-Van-Rooyen_ST10162964_Part1
 
 This program is a console app and makes use of the .Net frame work. It is coded in C#, so please use the correct IDE when viewing the code (Visual Studio).
 The purpose of this program is to capture recipes and alter them and display them to the user.
