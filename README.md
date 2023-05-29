@@ -10,3 +10,11 @@ The program should run and the user will be prompted to enter in the required da
 In this case the required data is a recipe.
 Select your desired option and enter the data accordingly. All the data will be stored and can be viewed by selecting the corresponding option in the menu.
 The program will continuously run until the user chooses to exit the program.
+
+Update(V2.0):
+*Colored text has been added for cohesiveness
+*The amount of calories can now be entered 
+*Unit tests have been created to test the calorie calculation
+*The amount of calories is now apart of the recipe display
+*The user is alerted when the calorie amount exceeds 300
+*The delegates have been implemented
